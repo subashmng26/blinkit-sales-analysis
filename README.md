@@ -58,10 +58,18 @@ Sales concentration is not uniform across locations.
 Project Structure
 blinkit-sales-analysis/
 │
-├── Blinkit Analysis.ipynb
-├── dataset.csv
-├── requirements.txt
+├── python-analysis/
+│   ├── Blinkit Analysis.ipynb
+│   └── requirements.txt
+│
+├── powerbi-dashboard/
+│   └── blinkit.pbix
+│
+├── dataset/
+│   └── blinkit.csv
+│
 └── README.md
+
 
 How to Run
 
@@ -80,6 +88,20 @@ Build predictive model for sales forecasting.
 Deploy dashboard using Streamlit or Power BI. 
 
 Perform advanced statistical analysis.
+
+The dataset was further modeled and visualized in Power BI.
+
+The dashboard includes:
+
+- KPI summary cards
+  
+- Sales by outlet type
+  
+- Category performance comparison
+  
+- Outlet size revenue distribution
+
+The dashboard enables interactive filtering and drill-down analysis.
 
 Author
 
