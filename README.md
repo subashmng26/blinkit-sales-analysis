@@ -61,9 +61,9 @@ Run the notebook using Jupyter.
 
 Future Improvements:
 
-Build predictive model for sales forecasting
-Deploy dashboard using Streamlit or Power BI
-Perform advanced statistical analysis
+Build predictive model for sales forecasting. 
+Deploy dashboard using Streamlit or Power BI. 
+Perform advanced statistical analysis.
 
 Author
 Subash Chandra Bose
