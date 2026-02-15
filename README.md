@@ -60,6 +60,7 @@ pip install -r requirements.txt
 Run the notebook using Jupyter.
 
 Future Improvements:
+
 Build predictive model for sales forecasting
 Deploy dashboard using Streamlit or Power BI
 Perform advanced statistical analysis
